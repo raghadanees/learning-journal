@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to our class 102
 
 You can use the [editor on GitHub](https://github.com/raghadanees/learning-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
